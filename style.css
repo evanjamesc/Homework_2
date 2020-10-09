@@ -1,0 +1,15 @@
+.navbar-nav {
+    background-color: blueviolet;
+    margin-left: 80%;
+}
+
+.navbar-brand {
+    background-color: cadetblue;
+    font-weight: 600;
+}
+
+.container {
+    margin-top: 10px;
+    float: left;
+    background-color: cornflowerblue;
+}

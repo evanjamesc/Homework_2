@@ -6,19 +6,23 @@ body {
     background-image: url(./assets/images/backgroundImage.jpg);
     margin: 30px;
 }
+
 .navbar-nav {
-    background-color: blueviolet;
     margin-right: auto;
 }
 
 .navbar-brand {
-    background-color: cadetblue;
+    color: cadetblue;
     font-weight: 600;
+}
+
+#NameCard {
+    color: cadetblue;
 }
 
 .container {
     margin-top: 10px;
-    background-color: cornflowerblue;
+    background-color: #8987AA;
     border: 1px solid black;
 }
 
@@ -47,6 +51,21 @@ body {
 }
 
 h1 {
+    text-align: center;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    background-color: #190524;
+    margin-top: 50px;
+}
+
+#footer-text {
+    color: #9B9B9B;
+    padding-top: 10px;
     text-align: center;
 }
 
